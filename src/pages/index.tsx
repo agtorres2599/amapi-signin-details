@@ -19,7 +19,7 @@ const Home: NextPage = () => {
           <div className={styles.cardRow}>
             <Link
               className={styles.card}
-              href="https://create.t3.gg/en/usage/first-steps"
+              href="https://enterprise.google.com/android/enroll?et=JMRKUOQFKENYIHAJPMQF"
               target="_blank"
             >
               <h3 className={styles.cardTitle}>Enroll</h3>
